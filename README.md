@@ -1,4 +1,4 @@
-# odkrywcy-css-a
+# css-explorers
 
 HTML and pure CSS, responsive web page.
 
